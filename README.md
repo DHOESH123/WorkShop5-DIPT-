@@ -1,7 +1,7 @@
 # License Plate Detection using OpenCV and Haar Cascade
 
-### Author: Vignesh R
-### Date: November 12, 2025
+### Author: ESHWAR T
+### Date: November 18, 2025
 ### Course: Computer Vision / AI Applications
 ### Assignment: Workshop 5 — License Plate Detection using Haar Cascade
 
